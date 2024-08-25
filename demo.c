@@ -1,0 +1,4 @@
+int sum;
+{
+  print("hello");
+}
